@@ -4,6 +4,7 @@
 
 The script below depends on `cdo` and `nco`. Make sure these are installed on your system before proceeding.
 
+### Steps
 
 1. Download the datasets from Lev Tarasov's website:
 
