@@ -1,5 +1,10 @@
 # How to process the GLAC1D datasets onto a regional projected grid using `cdo`
 
+### Prerequisites
+
+The script below depends on `cdo` and `nco`. Make sure these are installed on your system before proceeding.
+
+
 1. Download the datasets from Lev Tarasov's website:
 
 [https://www.physics.mun.ca/~lev/dataAccess.html](https://www.physics.mun.ca/~lev/dataAccess.html)
