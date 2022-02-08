@@ -15,3 +15,5 @@ Note that eventually we could also download and process the surface elevation da
 ```
 ./remap_glac1d.sh Laurentide LIS-32KM
 ```
+
+The script will process two files (120kyr to 30kyr and 30kyr to 0kyr) for a given dataset and add the prefix to the filenames `domain_`, e.g. `LIS-32KM_`. In the case of Northern Hemisphere domains (North,Laurentide, Greenland), two datasets will be processed (nn9927 and nn9894). In the case of the Southern Hemisphere, only one dataset is processed (nn4041).
